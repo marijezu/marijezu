@@ -10,10 +10,11 @@
 
 <p align="center">
   <a href="mailto:serranoserranomariajesus@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30"/><br/>
     serranoserranomariajesus@gmail.com
   </a>
 </p>
+
 
 
 ---
