@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hola%20soy%20María%20Jesús%20Serrano&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hola%20soy%20María%20Jesús&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
 
 
