@@ -8,12 +8,13 @@
 </p>
 
 
-
 <p align="center">
   <a href="mailto:serranoserranomariajesus@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30"/>
+    serranoserranomariajesus@gmail.com
   </a>
 </p>
+
 
 ---
 
