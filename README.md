@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hola%soy%María%Jesús%Serrano&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hola%20soy%20María%20Jesús%20Serrano&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFhMTB2bXJ2NGl6amx4OTVyYnIyNjFsMGpkdHlleDYxdTYzNWg0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="300"/>
