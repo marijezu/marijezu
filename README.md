@@ -1,16 +1,20 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=Hola soyb María Jesús Serrano&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
 
-<!--
-**marijezu/marijezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:serranoserranomariajesus@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+🔭 Actualmente Estudiante de 2º DAM (Desarrollo de Aplicaciones Multiplataforma)  
+🌱 A un paso de convertirme en desarrolladora multiplataforma  
+Intereses:
+  - Apps móviles
+  - Diseño de interfaces
+  - ✨ Aprendizaje continuo ✨
