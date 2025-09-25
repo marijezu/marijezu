@@ -1,6 +1,3 @@
-## Hola soy María Jesús 👋
-<h1 align="center">👋 Hola soy María Jesús</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Hola%soy%María%Jesús%Serrano&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
 </p>
