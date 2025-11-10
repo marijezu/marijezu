@@ -49,8 +49,8 @@ Me encanta crear soluciones útiles, funcionales y con estilo ✨.
 ### 💡 Proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/marijezu/dart-proyecto" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marijezu&repo=dart-proyecto&theme=rose_pine&border_color=ffb6c1&border_radius=10"/>
+  <a href="https://github.com/marijezu/dart" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marijezu&repo=dart&theme=rose_pine&border_color=ffb6c1&border_radius=10"/>
   </a>
 </p>
 
