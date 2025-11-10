@@ -24,8 +24,8 @@ Me encanta crear soluciones útiles, funcionales y con estilo ✨.
 
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/HTML5-ffd1dc?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-b3d9ff?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-ffd1dc?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-b3d9ff?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ffb347?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-bde0fe?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-a2d2ff?style=for-the-badge&logo=dart&logoColor=white"/>
